@@ -1,0 +1,13 @@
+/* Override Just the Docs accents with your brand */
+:root {
+  --jtd-primary-color: #0f7b83;   /* brand teal */
+  --jtd-link-color:   #0f7b83;
+  --jtd-accent-color: #e24a9c;   /* accent pink/magenta */
+}
+
+.btn { border-radius: 10px; }
+.btn-primary {
+  background-color: var(--jtd-primary-color);
+  border-color: var(--jtd-primary-color);
+}
+.btn:hover { filter: brightness(0.95); }
