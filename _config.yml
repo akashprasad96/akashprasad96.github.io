@@ -1,0 +1,27 @@
+title: "Akash Prasad"
+description: "Program Manager • Analytics • Cloud Strategy"
+url: "https://akashprasad96.github.io"
+baseurl: ""   # keep empty for user sites
+
+# Theme
+remote_theme: just-the-docs/just-the-docs
+color_scheme: light
+
+# Navigation helpers
+nav_external_links:
+  - title: LinkedIn
+    url: https://www.linkedin.com/in/akashprasad97/
+  - title: GitHub
+    url: https://github.com/akashprasad96
+  - title: Email
+    url: mailto:akashprasad.seattle@gmail.com
+
+# Search
+search_enabled: true
+
+# Footer
+footer_content: "© 2025 Akash Prasad"
+
+# Plugins (GitHub Pages supports these)
+plugins:
+  - jekyll-seo-tag
